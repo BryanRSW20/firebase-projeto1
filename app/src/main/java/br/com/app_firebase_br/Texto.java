@@ -1,14 +1,14 @@
 package br.com.app_firebase_br;
 
 public class Texto {
+
     private String conteudo;
 
-    public Texto(){
-
+    public Texto() {
 
     }
 
-    public Texto(String conteudo){
+    public Texto(String conteudo) {
         this.conteudo = conteudo;
     }
 
